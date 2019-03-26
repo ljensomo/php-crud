@@ -1,2 +1,2 @@
 # php-crud
-Sobrang Simpleng PHP CRUD
+Simpleng CRUD
